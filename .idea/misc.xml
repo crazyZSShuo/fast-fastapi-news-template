@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (fastAPIEnv)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (fastAPIEnv)" project-jdk-type="Python SDK" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1731076300511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731076300511</updated>
+    </task>
+    <servers />
+  </component>
+</project>
